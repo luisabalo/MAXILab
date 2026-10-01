@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use MAXILab in scientific work, please cite the software release and the relevant MAXI publications/data products."
+title: "MAXILab: MAXI Light-curve Analysis and Browsing"
+type: software
+authors:
+  - family-names: "Abalo"
+    given-names: "Luis"
+version: 0.1.0
+date-released: 2026-10-01
