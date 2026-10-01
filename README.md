@@ -4,7 +4,7 @@
 
 MAXILab is a Python package for accessing public MAXI/GSC light curves.
 
-Version **0.1.0** contains the data-access layer only: give MAXILab a source name and it resolves the source in the live MAXI catalogue, downloads the latest standard light curve, validates it, and returns it as a `pandas.DataFrame`.
+Version **0.1.1** contains the data-access layer only: give MAXILab a source name and it resolves the source in the live MAXI catalogue, downloads the latest standard light curve, validates it, and returns it as a `pandas.DataFrame`.
 
 MAXILab is an independent project and is not an official MAXI-team package. 
 
@@ -77,6 +77,6 @@ MAXILAB_RUN_LIVE=1 pytest -m live --no-cov
 
 ## Current scope
 
-Version 0.1.0 only handles source resolution, download, validation, local storage, and provenance. Analysis and plotting tools will be added in later releases.
+Version 0.1.1 only handles source resolution, download, validation, local storage, and provenance. Analysis and plotting tools will be added in later releases.
 
 MAXI source catalogue: https://maxi.riken.jp/top/slist.html
