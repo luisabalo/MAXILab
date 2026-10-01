@@ -9,7 +9,7 @@ description = "Python access to public MAXI/GSC standard light curves."
 readme = "README.md"
 requires-python = ">=3.10"
 authors = [
-  {name = "Luis Abalo Rodríguez"},
+  {name = "Luis Abalo"},
 ]
 keywords = ["astronomy", "x-ray", "MAXI", "light curve", "time domain"]
 classifiers = [
